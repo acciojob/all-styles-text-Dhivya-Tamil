@@ -3,15 +3,15 @@
 .main{
 	width:200px;
 	background-color:purple;
-	
-}
-div.heading{
-	font-size:20px;
-	color:white;
-	padding:20px;
 	border-left-width: 5px;
     border-left-style: solid;
     border-left-color: green;
+	padding:10px;
+	
+}
+#heading{
+	font-size:20px;
+	color:white;
 }
 
 	
